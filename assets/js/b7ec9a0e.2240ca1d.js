@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksabasite=self.webpackChunksabasite||[]).push([[7245],{1785:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/Saba-Website/blog/tags/hello","allTagsPath":"/Saba-Website/blog/tags","count":2}')}}]);

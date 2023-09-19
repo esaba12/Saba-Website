@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksabasite=self.webpackChunksabasite||[]).push([[1282],{9047:e=>{e.exports=JSON.parse('{"permalink":"/Saba-Website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
