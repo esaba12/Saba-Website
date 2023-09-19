@@ -6,8 +6,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Sabasite',
+  title: 'Sabsite',
   tagline: 'Dinosaurs 👎',
+  organizationName: 'esaba12',
+  projectName: 'Saba-Website',
+  trailingSlash: false,
   favicon: 'https://titanhst.com/wp-content/uploads/2021/08/5.png',
 
   // Set the production url of your site here
