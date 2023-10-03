@@ -4,10 +4,18 @@
         <title>Sabsite Blog</title>
         <link>https://esaba12.github.io/Saba-Website/blog</link>
         <description>Sabsite Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 16:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2022 Computer Science Research Write-Up]]></title>
+            <link>https://esaba12.github.io/Saba-Website/blog/Project-writeup</link>
+            <guid>https://esaba12.github.io/Saba-Website/blog/Project-writeup</guid>
+            <pubDate>Tue, 03 Oct 2023 16:56:37 GMT</pubDate>
+            <description><![CDATA[Learn about my work in the 2022 Computer Science Research Class.]]></description>
+            <content:encoded><![CDATA[<p>Learn about my work in the 2022 Computer Science Research Class.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="write-up">Write-Up<a href="#write-up" class="hash-link" aria-label="Direct link to Write-Up" title="Direct link to Write-Up">​</a></h2><p>Hi, my name is Ethan Saba and I’m a Senior who took Honors Computer Science research in the 2022 school year. Over the course of the year, I worked on a website to make it easier for consumers to find the cheapest price of a product. With evergrowing product choices around the world, I thought there should be a hub where consumers could easily sort through listings and quickly find what retailer offers a product at the lowest price. To begin, I started researching different website structures that could most effectively achieve my goal. I settled on a structure called Ruby on Rails, which allowed me to get a website running quickly and easily. Ruby, the language used to code in Ruby on Rails, is simple to learn and read, which made it ideal for a project like this that had such a short time frame. I built on this by making the visual aspect of the website with a coding library called React. React was created by Facebook developers to simplify the creation of the visual portion of a website. Using React, I was able to make product cards and simple website navigation popups with the knowledge I already had, making it incredibly useful over the course of this project. While there is a lot of functionality I’d like to have, I’m very happy with my progress and I’m grateful for the skills I have learned.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://esaba12.github.io/Saba-Website/blog/welcome</link>
