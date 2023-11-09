@@ -54,3 +54,7 @@ sidebar_position: 1
 * As a college aged woman living with 6 other girls, she wonders if something can be done for the sake of her safety
 
 ![Yasmina Do, Say, Think, Feel](/img/needfind/yas.png)
+
+## In Class Slideshow Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9q1uXF9VzGWiLyxO9GDUJ4o38lvqOXk37ugU-0NjwalC3rwrmOPjxzhWwtfgwU4uSmuRsiWggUBym/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
