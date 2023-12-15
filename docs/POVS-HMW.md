@@ -24,10 +24,10 @@ A "How Might We" (HMW) is the beginning of a response to the need identified in 
 
 **POV:** I met Chloe, a female Persian pre-med student at the University of Michigan. I found it interesting to realize that she felt uncomfortable working with home automation and specifically smart assistants because of privacy concerns she heard about in the news. It would be game-changing to make a more secure smart home system.
 
-**HMW** How might we build trust with our smart assistants?
+**HMW:** How might we build trust with our smart assistants?
 
 ## Interview 3: Kevin V
 
 **POV:** I met with Kevin, a home security and networking installer in the Los Angeles area. I was amazed to learn how frustrated he was by people asking for cheap home automation systems, despite his belief that no good, cheap options exist in the space. It would be game changing to have more affordable home automation systems to expand his clientele. 
 
-**HMW:** How might we make home automation feel like having an affordable butler? 
+**HMW:** How might we make home automation feel like having a butler? 
