@@ -36,7 +36,7 @@ An Experience Prototype is a physical demonstration of a solution presented in a
 
 ## Prototype 2: Drag and Drop Assistant  
 
-**HMW:** : How might we make learning as easy as 1,2,3. 
+**HMW:** How might we make learning as easy as 1,2,3. 
 
 **Prototype Idea:** Dumbed down version of complex home automation setup.  
 
@@ -50,6 +50,24 @@ An Experience Prototype is a physical demonstration of a solution presented in a
 
   ### Experience 2: Aaron M
 
-  Aaron is a student at Harvard Westlake h
+  Aaron is a student at Harvard Westlake high school who has a passion for coding. He thought the entire process in this experience was super straightforward, and he would be a lot more willing to enter the smart home space "if it was always this simple." 
 
   ![Aaron](/img/experience/71772058454__F93C92B6-DF70-41C6-8478-436DEEBD9D6B.jpeg)
+
+## Prototype 3: Home Butler
+
+**HMW:** How might we make home automation feel like having a butler?
+
+**Prototype Idea:** Simple and human smart assistant.
+
+**Actual Prototype:** A demonstration of the experience of having the “butler” wake you up. 
+
+### Experience 1: Noah H
+
+Noah is a student at Brentwood High School is Los Angeles. He is a huge fan of making his life easier. Before entering the experience, he said, “This thing better not be annoying", which is an indication that he has not enjoyed past use with smart assistants. Overall though, he enjoyed the ease of using the "Butler". 
+
+![Noah](/img/experience/Noahhamid.jpeg)
+
+### Experience 2: Dijon J
+
+Dijon is a personal trainer in Los Angeles. He likes the concept of automating usual habits, and explained how much he would love his blinds being opened for him. He did enjoy the experience, and said he hopes that assistants like Siri become this smart in the future. 
